@@ -23,7 +23,7 @@ una conversión específica ingresando una opción del 1 al 6.</p>
 
 <h2>Instalacion y Ejecucion</h2>
 <ol>
-  <li>CLona este repositorio o descarga los archivos del proyecto</li>
+  <li>Clona este repositorio o descarga los archivos del proyecto</li>
   <li>Asegurese de tener <b>Gson</b> configurado en su proyecto</li>
   <li>Compila y ejecuta el archivo <b>Principal.java</b></li>
 </ol>
